@@ -16,3 +16,4 @@ while True:
         break
     if cv2.waitKey(10) == ord('q'):
         break
+ 
